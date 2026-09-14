@@ -1,0 +1,6 @@
+OrderStatus,total_orders,order_percentange
+Delivered,231,19.2500
+Shipped,235,19.5833
+Pending,237,19.7500
+Returned,247,20.5833
+Cancelled,250,20.8333
